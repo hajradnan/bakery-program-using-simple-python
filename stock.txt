@@ -1,0 +1,13 @@
+{'chocolate':30}
+{'teabags':28}
+{'spices':46}
+{'milk':24}
+{'colddrink':19}
+{'biscuit':48}
+{'butter':9}
+{'eggs':54}
+{'bubblegum':41}
+{'bread':19}
+{'chips':18}
+{'icecream':27}
+{'waffers':15}

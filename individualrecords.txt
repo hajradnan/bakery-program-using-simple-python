@@ -1,0 +1,4 @@
+[['hajra', 'adnan', 'hajra@hotmail.com', 'a 300 gulistan e jauhar'], {'bubblegum': 4, 'waffers': 3, 'teabags': 2}, {'bubblegum': 20.0, 'waffers': 120.0, 'teabags': 500.0}, 640.0]
+[['sumeira', 'siddiqui', 'sumeira@gmail.com', 'block 5 gulshan e iqbal'], {'spices': 4, 'milk': 1, 'colddrink': 6, 'biscuit': 2, 'waffers': 5}, {'spices': 280.0, 'milk': 200.0, 'colddrink': 150.0, 'biscuit': 20.4, 'waffers': 200.0}, 750.4]
+[['fatima', 'kashif', 'fkashif@gmail.com', 'flat 65 block 2'], {'butter': 1, 'eggs': 6, 'bubblegum': 5, 'chips': 2, 'bread': 1}, {'butter': 75.0, 'eggs': 90.0, 'bubblegum': 25.0, 'chips': 40.0, 'bread': 50.0}, 280.0]
+[['wareesha', 'hassan', 'whassan@gmail.com', 'DHA phase 7'], {'icecream': 3, 'waffers': 2}, {'icecream': 135.0, 'waffers': 80.0}, 215.0]
